@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.60203574.css",
-  "main.css.map": "static/css/main.60203574.css.map",
-  "main.js": "static/js/main.cbb211d1.js",
-  "main.js.map": "static/js/main.cbb211d1.js.map",
+  "main.css": "static/css/main.f8b60841.css",
+  "main.css.map": "static/css/main.f8b60841.css.map",
+  "main.js": "static/js/main.a0a3c56b.js",
+  "main.js.map": "static/js/main.a0a3c56b.js.map",
   "static/media/404-emoji.svg": "static/media/404-emoji.f35fdf40.svg",
   "static/media/404.svg": "static/media/404.90784bd7.svg",
   "static/media/ConnectSlack.gif": "static/media/ConnectSlack.9bc28650.gif",
@@ -10,10 +10,6 @@
   "static/media/analytics.svg": "static/media/analytics.dc9a216e.svg",
   "static/media/auto-messages.svg": "static/media/auto-messages.ffe1cd83.svg",
   "static/media/contact.svg": "static/media/contact.c87dafd5.svg",
-  "static/media/frownie.svg": "static/media/frownie.4fdd2008.svg",
-  "static/media/pro.svg": "static/media/pro.97762757.svg",
-  "static/media/smiley.svg": "static/media/smiley.4dff7233.svg",
   "static/media/squiggle.svg": "static/media/squiggle.0d7be787.svg",
-  "static/media/team.svg": "static/media/team.b680b90a.svg",
   "static/media/trigger.svg": "static/media/trigger.e63fba04.svg"
 }
