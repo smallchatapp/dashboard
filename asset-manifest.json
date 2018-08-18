@@ -1,8 +1,15 @@
 {
+<<<<<<< HEAD
   "main.css": "static/css/main.753192af.css",
   "main.css.map": "static/css/main.753192af.css.map",
   "main.js": "static/js/main.4681b9f9.js",
   "main.js.map": "static/js/main.4681b9f9.js.map",
+=======
+  "main.css": "static/css/main.7efcac51.css",
+  "main.css.map": "static/css/main.7efcac51.css.map",
+  "main.js": "static/js/main.6470c63d.js",
+  "main.js.map": "static/js/main.6470c63d.js.map",
+>>>>>>> 442d615a7469365a496fefc08f926b70a16f8b3f
   "static/media/404-emoji.svg": "static/media/404-emoji.f35fdf40.svg",
   "static/media/404.svg": "static/media/404.90784bd7.svg",
   "static/media/ConnectSlack.gif": "static/media/ConnectSlack.9bc28650.gif",
